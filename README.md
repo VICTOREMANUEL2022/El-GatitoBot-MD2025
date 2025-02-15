@@ -53,7 +53,8 @@
 <details>
 <summary><b> 💭 Contáctos</b></summary>
 
-* WhatsApp: [`Aquí`](https://+598 96 753 932)
+* WhatsApp: [`Aquí`]
+* (https://59896753932)
 
 </details>
 
