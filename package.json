@@ -1,5 +1,5 @@
 {
-"name": "Yuki_Suou-Bot",
+"name": "locuras-Bσƚ-Bot",
 "version": "2.2.0",
 "description": "Super WhatsApp Bot Multi Device",
 "main": "index.js",
@@ -18,7 +18,7 @@
 "eslint": "eslint .",
 "eslintfix": "eslint --fix ."
 },
-"homepage": "https://github.com/The-King-Destroy/Yuki_Suou-Bot",
+"homepage": "https://github.com/The-King-Destroy/locuras-Bσƚ-Bot",
 "author": {
 "name": "The-King-Destroy"
 },
@@ -27,7 +27,7 @@
 "url": "git+https://github.com/The-King-Destroy/Yuki_Suou-Bot.git"
 },
 "bugs": {
-"url": "https://github.com/The-King-Destroy/Yuki_Suou-Bot/issues"
+"url": "https://github.com/The-King-Destroy/locuras-Bσƚ/issues"
 },
 "license": "GPL-3.0-or-later",
 "dependencies": {
