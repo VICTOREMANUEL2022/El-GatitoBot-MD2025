@@ -1,4 +1,4 @@
-<h1 align="center">✦ Yυƙι-Sυσυ-Bσƚ ✦</h1>
+<h1 align="center">✦ locuras-Bσƚ ✦</h1>
 
  <img src= "https://files.catbox.moe/om9jai.jpg">
     </p>
@@ -53,8 +53,7 @@
 <details>
 <summary><b> 💭 Contáctos</b></summary>
 
-* WhatsApp: [`Aquí`](https:/Wa.me/584120346669)
-* Correo: [`Aquí`](thekingdestroy507@gmail.com)
+* WhatsApp: [`Aquí`](https://+598 96 753 932)
 
 </details>
 
@@ -89,7 +88,7 @@ href="https://dash.skyultraplus.com/home"><img src="https://qu.ax/zFzXF.png" hei
 * Panel: [`Panel`](https://console.akirax.net)
 * Canal de WhatsApp: [`Canal Akirax`](https://whatsapp.com/channel/0029Vb3Ocrs7IUYNQktqeE11)
 * Comunidad: [`Aquí`](https://chat.whatsapp.com/HekxzfoLBxN1TCwTmrlGcy)
-* Contacto(s): [`Matias`](https://Wa.me/+5491164123932) / [`Legend`](https://wa.me/584148256527) / [`Tesis`](https://wa.me/522431268546)
+* Contacto(s): [`bot locuras`](https://Wa.me/+598 96 753 932)
 
 </details>
 
@@ -123,7 +122,7 @@ href="https://dahs.hostingpy.shop/home"><img src="https://files.catbox.moe/lr92z
 * Panel [`Panel`](https://panel.hostingpy.shop)
 * Canal de WhatsApp [`Canal Py`](https://whatsapp.com/channel/0029Vak4e1R4NVifmh8Tvi3q)
 * Comunidad  [`Aquí`](https://chat.whatsapp.com/HT9YFbWTuqO0DQrq6Xxhvx)
-* Contacto(s) [`Soporte`](https://wa.me/595976126756)
+* Contacto(s) [`Soporte`](https://wa.me/+598 96 753 932)
 
 </details>
 
@@ -162,3 +161,4 @@ href="https://github.com/The-King-Destroy"><img src="https://github.com/The-King
 <a href="https://github.com/David-Chian" style="display:inline-block; text-decoration: none;">
     <img src="https://github.com/David-Chian.png" width="130" height="130" alt="David-Chian" style="border-radius: 50%;"/>
 </a>
+gracias por elegirnos
